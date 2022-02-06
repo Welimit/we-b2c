@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Welimit.github.io/We-service",
+  "homepage": "http://Welimit.github.io/we-b2c",
   "name": "we-service",
   "version": "0.1.0",
   "private": true,
@@ -41,6 +41,6 @@
     ]
   },
   "devDependencies": {
-    
+    "gh-pages": "^3.2.3"
   }
 }
