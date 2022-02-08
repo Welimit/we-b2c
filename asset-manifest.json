@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/we-b2c/static/js/main.1c2690c0.js",
+    "main.js": "/we-b2c/static/js/main.017561ef.js",
     "static/media/savings.png": "/we-b2c/static/media/savings.a3b268cbc6d56991740f.png",
     "static/media/contact.png": "/we-b2c/static/media/contact.719de676bd9b72b74506.png",
     "static/media/Home-2.png": "/we-b2c/static/media/Home-2.aee6f01e0b8a809979cf.png",
@@ -11,9 +11,9 @@
     "static/media/electrical.png": "/we-b2c/static/media/electrical.2af3e2f66300204f946e.png",
     "static/media/homeap.png": "/we-b2c/static/media/homeap.28ff3b5c309059f12846.png",
     "index.html": "/we-b2c/index.html",
-    "main.1c2690c0.js.map": "/we-b2c/static/js/main.1c2690c0.js.map"
+    "main.017561ef.js.map": "/we-b2c/static/js/main.017561ef.js.map"
   },
   "entrypoints": [
-    "static/js/main.1c2690c0.js"
+    "static/js/main.017561ef.js"
   ]
 }
