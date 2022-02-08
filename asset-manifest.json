@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.js": "/we-b2c/static/js/main.ef7d7fcb.js",
+    "main.js": "/we-b2c/static/js/main.92f7a444.js",
     "static/media/savings.png": "/we-b2c/static/media/savings.a3b268cbc6d56991740f.png",
     "static/media/contact.png": "/we-b2c/static/media/contact.719de676bd9b72b74506.png",
     "static/media/Home-2.png": "/we-b2c/static/media/Home-2.aee6f01e0b8a809979cf.png",
     "static/media/ac.jpg": "/we-b2c/static/media/ac.989df95d50c9997cff4c.jpg",
     "static/media/professional.png": "/we-b2c/static/media/professional.57a8f23bc504dcd7e8ae.png",
     "static/media/experts.png": "/we-b2c/static/media/experts.c289011184fb1ba01cab.png",
+    "static/media/plumber.jpg": "/we-b2c/static/media/plumber.e07ddab561074beef50a.jpg",
     "static/media/electrical.png": "/we-b2c/static/media/electrical.2af3e2f66300204f946e.png",
     "static/media/homeap.png": "/we-b2c/static/media/homeap.28ff3b5c309059f12846.png",
     "index.html": "/we-b2c/index.html",
-    "main.ef7d7fcb.js.map": "/we-b2c/static/js/main.ef7d7fcb.js.map"
+    "main.92f7a444.js.map": "/we-b2c/static/js/main.92f7a444.js.map"
   },
   "entrypoints": [
-    "static/js/main.ef7d7fcb.js"
+    "static/js/main.92f7a444.js"
   ]
 }
